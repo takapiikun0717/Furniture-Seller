@@ -1,0 +1,11 @@
+[mod]
+name="Furniture Seller"
+id="furniture-seller"
+version="1.3.1"
+author="Claude"
+
+[autoload]
+FurnitureSellerConfig="res://mods/FurnitureSeller/Config/FSConfig.gd"
+
+[script_extend]
+"res://Scripts/Context.gd"="res://mods/FurnitureSeller/Scripts/Context.gd"
